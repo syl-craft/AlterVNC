@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <mask id="ecart-curseur" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256">
+      <rect width="256" height="256" fill="#fff"/>
+      <path d="M124 112 L124 216 L152 192 L172 236 L192 227 L172 184 L208 184 Z" fill="#000" stroke="#000" stroke-width="24" stroke-linejoin="round"/>
+    </mask>
+  </defs>
+  <path id="cadre" fill="#111" fill-rule="evenodd" mask="url(#ecart-curseur)"
+        d="M60 20 H196 A40 40 0 0 1 236 60 V196 A40 40 0 0 1 196 236 H60 A40 40 0 0 1 20 196 V60 A40 40 0 0 1 60 20 Z
+           M66 48 H190 A18 18 0 0 1 208 66 V190 A18 18 0 0 1 190 208 H66 A18 18 0 0 1 48 190 V66 A18 18 0 0 1 66 48 Z"/>
+  <path id="curseur" fill="#111" stroke="#111" stroke-width="4" stroke-linejoin="round"
+        d="M124 112 L124 216 L152 192 L172 236 L192 227 L172 184 L208 184 Z"/>
+</svg>

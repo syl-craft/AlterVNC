@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="840" viewBox="0 0 1600 840"><rect width="1600" height="840" fill="#f7f7f4"/><text x="60" y="78" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#161616">AlterVNC — concepts en noir</text><text x="60" y="116" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#6b6b6b">Concepts for review — pick a direction (or tell me what you like in each).</text><rect x="60" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#161616" stroke-width="2"/><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="90" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <mask id="c0-ecart-curseur" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256">
+      <rect width="256" height="256" fill="#fff"/>
+      <path d="M124 112 L124 216 L152 192 L172 236 L192 227 L172 184 L208 184 Z" fill="#000" stroke="#000" stroke-width="24" stroke-linejoin="round"/>
+    </mask>
+  </defs>
+  <path id="c0-cadre" fill="#111" fill-rule="evenodd" mask="url(#c0-ecart-curseur)"
+        d="M60 20 H196 A40 40 0 0 1 236 60 V196 A40 40 0 0 1 196 236 H60 A40 40 0 0 1 20 196 V60 A40 40 0 0 1 60 20 Z
+           M66 48 H190 A18 18 0 0 1 208 66 V190 A18 18 0 0 1 190 208 H66 A18 18 0 0 1 48 190 V66 A18 18 0 0 1 66 48 Z"/>
+  <path id="c0-curseur" fill="#111" stroke="#111" stroke-width="4" stroke-linejoin="round"
+        d="M124 112 L124 216 L152 192 L172 236 L192 227 L172 184 L208 184 Z"/>
+</svg>
+</g><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="90" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <mask id="s064-ecart-curseur" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256">
+      <rect width="256" height="256" fill="#fff"/>
+      <path d="M124 112 L124 216 L152 192 L172 236 L192 227 L172 184 L208 184 Z" fill="#000" stroke="#000" stroke-width="24" stroke-linejoin="round"/>
+    </mask>
+  </defs>
+  <path id="s064-cadre" fill="#111" fill-rule="evenodd" mask="url(#s064-ecart-curseur)"
+        d="M60 20 H196 A40 40 0 0 1 236 60 V196 A40 40 0 0 1 196 236 H60 A40 40 0 0 1 20 196 V60 A40 40 0 0 1 60 20 Z
+           M66 48 H190 A18 18 0 0 1 208 66 V190 A18 18 0 0 1 190 208 H66 A18 18 0 0 1 48 190 V66 A18 18 0 0 1 66 48 Z"/>
+  <path id="s064-curseur" fill="#111" stroke="#111" stroke-width="4" stroke-linejoin="round"
+        d="M124 112 L124 216 L152 192 L172 236 L192 227 L172 184 L208 184 Z"/>
+</svg>
+</g><text x="122" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="180" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <mask id="s032-ecart-curseur" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256">
+      <rect width="256" height="256" fill="#fff"/>
+      <path d="M124 112 L124 216 L152 192 L172 236 L192 227 L172 184 L208 184 Z" fill="#000" stroke="#000" stroke-width="24" stroke-linejoin="round"/>
+    </mask>
+  </defs>
+  <path id="s032-cadre" fill="#111" fill-rule="evenodd" mask="url(#s032-ecart-curseur)"
+        d="M60 20 H196 A40 40 0 0 1 236 60 V196 A40 40 0 0 1 196 236 H60 A40 40 0 0 1 20 196 V60 A40 40 0 0 1 60 20 Z
+           M66 48 H190 A18 18 0 0 1 208 66 V190 A18 18 0 0 1 190 208 H66 A18 18 0 0 1 48 190 V66 A18 18 0 0 1 66 48 Z"/>
+  <path id="s032-curseur" fill="#111" stroke="#111" stroke-width="4" stroke-linejoin="round"
+        d="M124 112 L124 216 L152 192 L172 236 L192 227 L172 184 L208 184 Z"/>
+</svg>
+</g><text x="196" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="238" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <mask id="s016-ecart-curseur" maskUnits="userSpaceOnUse" x="0" y="0" width="256" height="256">
+      <rect width="256" height="256" fill="#fff"/>
+      <path d="M124 112 L124 216 L152 192 L172 236 L192 227 L172 184 L208 184 Z" fill="#000" stroke="#000" stroke-width="24" stroke-linejoin="round"/>
+    </mask>
+  </defs>
+  <path id="s016-cadre" fill="#111" fill-rule="evenodd" mask="url(#s016-ecart-curseur)"
+        d="M60 20 H196 A40 40 0 0 1 236 60 V196 A40 40 0 0 1 196 236 H60 A40 40 0 0 1 20 196 V60 A40 40 0 0 1 60 20 Z
+           M66 48 H190 A18 18 0 0 1 208 66 V190 A18 18 0 0 1 190 208 H66 A18 18 0 0 1 48 190 V66 A18 18 0 0 1 66 48 Z"/>
+  <path id="s016-curseur" fill="#111" stroke="#111" stroke-width="4" stroke-linejoin="round"
+        d="M124 112 L124 216 L152 192 L172 236 L192 227 L172 184 L208 184 Z"/>
+</svg>
+</g><text x="246" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="90.0" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">A · Cadre-curseur</text><text x="90.0" y="664" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#161616" letter-spacing="1.5">RECOMMENDED</text><text x="90.0" y="698" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">Le curseur du PC entre dans l&#x27;écran du Mac</text><text x="90.0" y="724" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">et en franchit le bord.</text><rect x="562.667" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#e4e4e0" stroke-width="1"/><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="592.667" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <path id="c1-a-curseur" fill="#111" fill-rule="evenodd" stroke="#111" stroke-width="6" stroke-linejoin="round"
+        d="M128 22 L224 226 L128 186 L32 226 Z
+           M128 94 L154 158 L102 158 Z"/>
+</svg>
+</g><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="592.667" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <path id="s164-a-curseur" fill="#111" fill-rule="evenodd" stroke="#111" stroke-width="6" stroke-linejoin="round"
+        d="M128 22 L224 226 L128 186 L32 226 Z
+           M128 94 L154 158 L102 158 Z"/>
+</svg>
+</g><text x="624.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="682.667" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <path id="s132-a-curseur" fill="#111" fill-rule="evenodd" stroke="#111" stroke-width="6" stroke-linejoin="round"
+        d="M128 22 L224 226 L128 186 L32 226 Z
+           M128 94 L154 158 L102 158 Z"/>
+</svg>
+</g><text x="698.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="740.667" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <path id="s116-a-curseur" fill="#111" fill-rule="evenodd" stroke="#111" stroke-width="6" stroke-linejoin="round"
+        d="M128 22 L224 226 L128 186 L32 226 Z
+           M128 94 L154 158 L102 158 Z"/>
+</svg>
+</g><text x="748.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="592.6666666666667" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">B · A-curseur</text><text x="592.6666666666667" y="670" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">Un A d&#x27;AlterVNC dessiné comme une flèche de</text><text x="592.6666666666667" y="696" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">curseur.</text><rect x="1065.33" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#e4e4e0" stroke-width="1"/><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1095.33" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <path id="c2-ecran" fill="#111" fill-rule="evenodd"
+        d="M48 36 H208 A28 28 0 0 1 236 64 V160 A28 28 0 0 1 208 188 H48 A28 28 0 0 1 20 160 V64 A28 28 0 0 1 48 36 Z
+           M56 60 H200 A12 12 0 0 1 212 72 V152 A12 12 0 0 1 200 164 H56 A12 12 0 0 1 44 152 V72 A12 12 0 0 1 56 60 Z"/>
+  <rect id="c2-ecran-distant" x="100" y="84" width="88" height="56" rx="8" fill="#111"/>
+  <path id="c2-fleche" fill="none" stroke="#111" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" d="M64 136 L88 112"/>
+  <rect id="c2-pied" x="92" y="204" width="72" height="20" rx="10" fill="#111"/>
+</svg>
+</g><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1095.33" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <path id="s264-ecran" fill="#111" fill-rule="evenodd"
+        d="M48 36 H208 A28 28 0 0 1 236 64 V160 A28 28 0 0 1 208 188 H48 A28 28 0 0 1 20 160 V64 A28 28 0 0 1 48 36 Z
+           M56 60 H200 A12 12 0 0 1 212 72 V152 A12 12 0 0 1 200 164 H56 A12 12 0 0 1 44 152 V72 A12 12 0 0 1 56 60 Z"/>
+  <rect id="s264-ecran-distant" x="100" y="84" width="88" height="56" rx="8" fill="#111"/>
+  <path id="s264-fleche" fill="none" stroke="#111" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" d="M64 136 L88 112"/>
+  <rect id="s264-pied" x="92" y="204" width="72" height="20" rx="10" fill="#111"/>
+</svg>
+</g><text x="1127.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1185.33" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <path id="s232-ecran" fill="#111" fill-rule="evenodd"
+        d="M48 36 H208 A28 28 0 0 1 236 64 V160 A28 28 0 0 1 208 188 H48 A28 28 0 0 1 20 160 V64 A28 28 0 0 1 48 36 Z
+           M56 60 H200 A12 12 0 0 1 212 72 V152 A12 12 0 0 1 200 164 H56 A12 12 0 0 1 44 152 V72 A12 12 0 0 1 56 60 Z"/>
+  <rect id="s232-ecran-distant" x="100" y="84" width="88" height="56" rx="8" fill="#111"/>
+  <path id="s232-fleche" fill="none" stroke="#111" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" d="M64 136 L88 112"/>
+  <rect id="s232-pied" x="92" y="204" width="72" height="20" rx="10" fill="#111"/>
+</svg>
+</g><text x="1201.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1243.33" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <path id="s216-ecran" fill="#111" fill-rule="evenodd"
+        d="M48 36 H208 A28 28 0 0 1 236 64 V160 A28 28 0 0 1 208 188 H48 A28 28 0 0 1 20 160 V64 A28 28 0 0 1 48 36 Z
+           M56 60 H200 A12 12 0 0 1 212 72 V152 A12 12 0 0 1 200 164 H56 A12 12 0 0 1 44 152 V72 A12 12 0 0 1 56 60 Z"/>
+  <rect id="s216-ecran-distant" x="100" y="84" width="88" height="56" rx="8" fill="#111"/>
+  <path id="s216-fleche" fill="none" stroke="#111" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" d="M64 136 L88 112"/>
+  <rect id="s216-pied" x="92" y="204" width="72" height="20" rx="10" fill="#111"/>
+</svg>
+</g><text x="1251.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="1095.3333333333335" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">C · Écran relais</text><text x="1095.3333333333335" y="670" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">Un écran qui en contient un autre, piloté</text><text x="1095.3333333333335" y="696" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">par la flèche.</text></svg>

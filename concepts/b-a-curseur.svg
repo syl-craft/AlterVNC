@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <path id="a-curseur" fill="#111" fill-rule="evenodd" stroke="#111" stroke-width="6" stroke-linejoin="round"
+        d="M128 22 L224 226 L128 186 L32 226 Z
+           M128 94 L154 158 L102 158 Z"/>
+</svg>

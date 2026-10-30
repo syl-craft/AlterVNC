@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+<title>AlterVNC</title>
+  <path id="ecran" fill="#9CA3AF" fill-rule="evenodd"
+        d="M48 36 H208 A28 28 0 0 1 236 64 V164 A28 28 0 0 1 208 192 H48 A28 28 0 0 1 20 164 V64 A28 28 0 0 1 48 36 Z
+           M62 70 H194 A10 10 0 0 1 204 80 V150 A10 10 0 0 1 194 160 H62 A10 10 0 0 1 52 150 V80 A10 10 0 0 1 62 70 Z"/>
+  <rect id="ecran-distant" x="106" y="86" width="86" height="60" rx="8" fill="#4C9AFF"/>
+  <path id="fleche-tige" fill="none" stroke="#3FB97A" stroke-width="20" stroke-linecap="round" d="M68 140 L80 128"/>
+  <path id="fleche" fill="#3FB97A" stroke="#3FB97A" stroke-width="4" stroke-linejoin="round" d="M100 108 L94.4 144.8 L63.2 113.6 Z"/>
+  <rect id="pied" x="80" y="204" width="96" height="28" rx="14" fill="#9CA3AF"/>
+</svg>
