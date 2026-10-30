@@ -10,7 +10,7 @@ d'origine, qui se lisait comme un stylo.
 
 | Dossier | Contenu |
 |---|---|
-| `ico/altervnc.ico` | Icône Windows : 16, 20, 24, 32, 40, 48, 64, 128, 256 px (version simplifiée jusqu'à 24 px) |
+| `ico/altervnc.ico` | Icône Windows, 14 tailles (16 → 256 px) : dessinée au pixel de 16 à 48 px (`icone-pixel/generer.py`), écran plein `#0B0F14` pour rester net et contrasté sur une barre des tâches claire ou sombre |
 | `png/` | Symbole de 16 à 1024 px, lockups clair et sombre pour un écran « À propos » |
 | `svg/altervnc-symbol.svg` | Symbole de référence (à partir de 32 px) |
 | `svg/altervnc-symbol-small.svg` | Version simplifiée pour 16 à 24 px |

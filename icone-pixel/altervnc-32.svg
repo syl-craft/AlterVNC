@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect id="cadre" x="1" y="3" width="30" height="21" rx="3" fill="#9CA3AF"/>
+  <rect id="ecran" x="4" y="6" width="24" height="15" fill="#0B0F14" shape-rendering="crispEdges"/>
+  <rect id="ecran-distant" x="13" y="9" width="13" height="9" fill="#4C9AFF" shape-rendering="crispEdges"/>
+  <line id="fleche-tige" x1="6.0" y1="19.0" x2="10.0" y2="13.0" stroke="#3FB97A" stroke-width="2" stroke-linecap="square"/>
+  <polygon id="fleche" points="12,11 12,15 8,11" fill="#3FB97A"/>
+  <rect id="pied" x="9" y="26" width="13" height="3" rx="0" fill="#9CA3AF"/>
+</svg>
