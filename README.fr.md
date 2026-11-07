@@ -8,8 +8,8 @@
 Pilotez votre Mac depuis votre PC, avec votre clavier, vos textes et vos connexions favorites à portée de main.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/01-connect-dark.gif">
-  <img src="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/01-connect-light.gif" alt="Choisir un favori, se connecter et retrouver le bureau distant avec la barre de session AlterVNC" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="videos/01-connect-dark.gif">
+  <img src="videos/01-connect-light.gif" alt="Choisir un favori, se connecter et retrouver le bureau distant avec la barre de session AlterVNC" width="960">
 </picture>
 
 ## Télécharger
@@ -38,13 +38,14 @@ Tailscale peut assurer la connexion lorsque les appareils sont sur des réseaux 
 
 ## Tapez naturellement
 
-Utilisez votre clavier PC AZERTY français : majuscules, chiffres et caractères spéciaux arrivent correctement
-sur le Mac. La barre de session donne aussi accès aux touches Mac, et l’option **Ctrl → Cmd** adapte
-les raccourcis habituels du PC à leurs équivalents sur Mac.
+Utilisez votre clavier PC AZERTY français et sélectionnez la disposition **Français** sur le Mac distant :
+majuscules, chiffres et caractères spéciaux arrivent correctement sur le Mac. La barre de session donne
+aussi accès aux touches Mac, et l’option **Ctrl → Cmd** adapte les raccourcis habituels du PC à leurs
+équivalents sur Mac.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/02-keyboard-dark.gif">
-  <img src="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/02-keyboard-light.gif" alt="Les touches du clavier PC AZERTY produisent A 1 # € | { _ ? sur le Mac distant" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="videos/02-keyboard-dark.gif">
+  <img src="videos/02-keyboard-light.gif" alt="Les touches du clavier PC AZERTY produisent A 1 # € | { _ ? sur le Mac distant" width="960">
 </picture>
 
 ## Copiez sur le PC, collez sur le Mac
@@ -54,8 +55,8 @@ Le texte Latin-1 passe par le presse-papiers distant ; les autres caractères so
 Le transfert du presse-papiers du Mac vers le PC n’est pas encore pris en charge.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/03-clipboard-dark.gif">
-  <img src="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/03-clipboard-light.gif" alt="Copier le texte d’une note sur le PC, cliquer sur Coller et le retrouver dans le document distant" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="videos/03-clipboard-dark.gif">
+  <img src="videos/03-clipboard-light.gif" alt="Copier le texte d’une note sur le PC, cliquer sur Coller et le retrouver dans le document distant" width="960">
 </picture>
 
 Les favoris conservent l’hôte et le compte. La mémorisation du mot de passe est facultative et utilise
@@ -70,8 +71,8 @@ L’interface Android propose les thèmes clair et sombre. Les mises à jour aut
 pas Android ; consultez les notes de release pour les paquets proposés.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/04-android-dark.gif">
-  <img src="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/04-android-light.gif" alt="Android en paysage : passage de Toucher à Pavé, déplacement du pointeur et de la barre flottante" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="videos/04-android-dark.gif">
+  <img src="videos/04-android-light.gif" alt="Android en paysage : passage de Toucher à Pavé, déplacement du pointeur et de la barre flottante" width="960">
 </picture>
 
 ## Des mises à jour que vous maîtrisez
@@ -81,8 +82,8 @@ les nouveautés et la progression du téléchargement. L’installation est une 
 le redémarrage, puis retrouvez la nouvelle version avec vos favoris conservés.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/05-updates-dark.gif">
-  <img src="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/05-updates-light.gif" alt="Pastille de version, téléchargement Mue, confirmation explicite de l’installation et relance sur la nouvelle version" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="videos/05-updates-dark.gif">
+  <img src="videos/05-updates-light.gif" alt="Pastille de version, téléchargement Mue, confirmation explicite de l’installation et relance sur la nouvelle version" width="960">
 </picture>
 
 ### Ligne de commande

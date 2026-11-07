@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="readme/altervnc-banniere-sombre.png">
-  <img src="readme/altervnc-banniere-clair.png" alt="AlterVNC — Control your Mac from Windows" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="readme/altervnc-logo-sombre.png">
+  <img src="readme/altervnc-logo-clair.png" alt="AlterVNC" width="600">
 </picture>
 
 [Français](README.fr.md) · **English**
@@ -8,8 +8,8 @@
 Control your Mac from your PC, with your keyboard, your text and your favourite connections close at hand.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/01-connect-dark.gif">
-  <img src="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/01-connect-light.gif" alt="Choose a favourite, connect, and open the remote desktop with the AlterVNC session toolbar" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="videos/01-connect-dark.gif">
+  <img src="videos/01-connect-light.gif" alt="Choose a favourite, connect, and open the remote desktop with the AlterVNC session toolbar" width="960">
 </picture>
 
 ## Download
@@ -37,13 +37,13 @@ Tailscale can provide that connection when the devices are on different networks
 
 ## Type naturally
 
-Use a French AZERTY PC keyboard: uppercase letters, digits and special characters arrive correctly on
-the Mac. The session toolbar also provides special Mac keys, and the **Ctrl → Cmd** option maps familiar
-PC shortcuts to their Mac equivalents.
+Use a French AZERTY PC keyboard and select the **French (Français)** keyboard layout on the remote Mac:
+uppercase letters, digits and special characters arrive correctly on the Mac. The session toolbar also
+provides special Mac keys, and the **Ctrl → Cmd** option maps familiar PC shortcuts to their Mac equivalents.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/02-keyboard-dark.gif">
-  <img src="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/02-keyboard-light.gif" alt="AZERTY PC keystrokes produce A 1 # € | { _ ? on the remote Mac" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="videos/02-keyboard-dark.gif">
+  <img src="videos/02-keyboard-light.gif" alt="AZERTY PC keystrokes produce A 1 # € | { _ ? on the remote Mac" width="960">
 </picture>
 
 ## Copy on the PC, paste on the Mac
@@ -53,8 +53,8 @@ Latin-1 text goes through the remote clipboard; other characters are sent as key
 Clipboard transfer from the Mac back to the PC is not supported yet.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/03-clipboard-dark.gif">
-  <img src="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/03-clipboard-light.gif" alt="Copy text in a PC note, click the clipboard button, and see the text appear in the remote document" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="videos/03-clipboard-dark.gif">
+  <img src="videos/03-clipboard-light.gif" alt="Copy text in a PC note, click the clipboard button, and see the text appear in the remote document" width="960">
 </picture>
 
 Favourites remember the host and account. Password storage is optional and uses Windows Credential Manager.
@@ -69,8 +69,8 @@ The Android interface supports both light and dark themes. Desktop automatic upd
 refer to the release notes for the packages provided.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/04-android-dark.gif">
-  <img src="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/04-android-light.gif" alt="Android in landscape: switch from Touch to Trackpad, move the pointer and drag the floating toolbar" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="videos/04-android-dark.gif">
+  <img src="videos/04-android-light.gif" alt="Android in landscape: switch from Touch to Trackpad, move the pointer and drag the floating toolbar" width="960">
 </picture>
 
 ## Updates, with you in control
@@ -80,8 +80,8 @@ and download progress. Installation is a separate action: confirm the restart, t
 with your favourites preserved.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/05-updates-dark.gif">
-  <img src="https://raw.githubusercontent.com/syl-craft/AlterVNC-assets/main/videos/05-updates-light.gif" alt="Version badge, Mue download, explicit installation confirmation and restart on the new version" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="videos/05-updates-dark.gif">
+  <img src="videos/05-updates-light.gif" alt="Version badge, Mue download, explicit installation confirmation and restart on the new version" width="960">
 </picture>
 
 ### Command line
