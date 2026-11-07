@@ -14,7 +14,7 @@ Control your Mac from your PC, with your keyboard, your text and your favourite 
 
 ## Download
 
-**[Get the latest release](https://github.com/syl-craft/AlterVNC-assets/releases/latest)** — Windows x64.
+**[Get the latest release](https://github.com/syl-craft/AlterVNC/releases/latest)** — Windows x64.
 
 | Package | How to use it |
 |---|---|
@@ -121,8 +121,7 @@ The application source repository is private.
 
 ## Brand kit
 
-Logo and visual identity kit for [AlterVNC](https://github.com/syl-craft/AlterVNC) (private source repository),
-the Windows VNC client for controlling a Mac.
+Logo and visual identity kit of AlterVNC, the Windows VNC client for controlling a Mac.
 
 | Folder | Contents |
 |---|---|

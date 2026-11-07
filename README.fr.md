@@ -14,7 +14,7 @@ Pilotez votre Mac depuis votre PC, avec votre clavier, vos textes et vos connexi
 
 ## Télécharger
 
-**[Télécharger la dernière version](https://github.com/syl-craft/AlterVNC-assets/releases/latest)** — Windows x64.
+**[Télécharger la dernière version](https://github.com/syl-craft/AlterVNC/releases/latest)** — Windows x64.
 
 | Paquet | Utilisation |
 |---|---|
@@ -123,8 +123,7 @@ Le dépôt du code de l’application est privé.
 
 ## Brand kit
 
-Logo et kit graphique d'[AlterVNC](https://github.com/syl-craft/AlterVNC), client VNC Windows pour piloter un Mac.
-Le lien du code source renvoie au dépôt privé.
+Logo et kit graphique d'AlterVNC, client VNC Windows pour piloter un Mac.
 
 | Dossier | Contenu |
 |---|---|
