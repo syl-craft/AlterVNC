@@ -16,6 +16,8 @@ Pilotez votre Mac depuis votre PC, avec votre clavier, vos textes et vos connexi
 
 **[Télécharger la dernière version](https://github.com/syl-craft/AlterVNC/releases/latest)** — Windows x64.
 
+[![Soutenir sur Ko-fi](https://img.shields.io/badge/Ko--fi-Soutenir-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/sylcraft)
+
 | Paquet | Utilisation |
 |---|---|
 | **Setup Windows** (`AlterVNC-win-Setup.exe`, ou le fichier versionné `*-Setup.exe`) | Lancez l’installateur, puis ouvrez AlterVNC depuis le menu Démarrer. |

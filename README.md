@@ -16,6 +16,8 @@ Control your Mac from your PC, with your keyboard, your text and your favourite 
 
 **[Get the latest release](https://github.com/syl-craft/AlterVNC/releases/latest)** — Windows x64.
 
+[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/sylcraft)
+
 | Package | How to use it |
 |---|---|
 | **Windows Setup** (`AlterVNC-win-Setup.exe`, or the versioned `*-Setup.exe`) | Run the installer, then open AlterVNC from the Start menu. |
