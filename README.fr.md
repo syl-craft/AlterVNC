@@ -5,7 +5,7 @@
 
 **Français** · [English](README.md)
 
-Pilotez votre Mac depuis votre PC, avec votre clavier, vos textes et vos connexions favorites à portée de main.
+**Votre Mac, depuis n'importe quel appareil.** PC, tablette ou téléphone : AlterVNC s'adapte à l'écran que vous avez en main — avec votre clavier, vos textes et vos connexions favorites à portée de main.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="videos/01-connect-dark.gif">

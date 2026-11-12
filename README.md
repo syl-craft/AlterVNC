@@ -5,7 +5,7 @@
 
 [Français](README.fr.md) · **English**
 
-Control your Mac from your PC, with your keyboard, your text and your favourite connections close at hand.
+**Your Mac, from any device.** PC, tablet or phone: AlterVNC adapts to the screen in your hands — with your keyboard, your text and your favourite connections close at hand.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="videos/01-connect-dark.gif">
