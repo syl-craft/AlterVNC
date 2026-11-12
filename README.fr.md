@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="readme/altervnc-banniere-sombre.png">
-  <img src="readme/altervnc-banniere-clair.png" alt="AlterVNC — Pilotez votre Mac depuis Windows" width="960">
+  <img src="readme/altervnc-banniere-clair.png" alt="AlterVNC — Votre Mac, depuis n’importe quel appareil" width="960">
 </picture>
 
 **Français** · [English](README.md)

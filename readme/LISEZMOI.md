@@ -13,7 +13,7 @@ Bannière qui suit le thème de GitHub :
 ```html
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/images/altervnc-banniere-sombre.png">
-  <img alt="AlterVNC — Pilotez votre Mac depuis Windows" src="docs/images/altervnc-banniere-clair.png">
+  <img alt="AlterVNC — Votre Mac, depuis n’importe quel appareil" src="docs/images/altervnc-banniere-clair.png">
 </picture>
 ```
 
